@@ -1,0 +1,7 @@
+Extract Boot.img script modified by zman0900 on XDA-Developers.
+
+run 
+
+./extract_boot.sh -b boot.img -o <Whicheveroutputnameyoulike>
+
+And you should have the boot init and the recovery init to be used to repack a prexisting boot.img.
